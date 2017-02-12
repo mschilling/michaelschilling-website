@@ -8,8 +8,8 @@ categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2009/01/26/Vampier-Vincent-Uri-Geller-vriend-of-vijand.aspx", "/post/2009/01/26/vampier-vincent-uri-geller-vriend-of-vijand.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
 <p>
 Na <strong>Vincents</strong> &#39;voortreffelijke&#39; act in de <strong>Uri Geller show</strong>, is hij overal in de media te vinden. Bijvoorbeeld op de website van de Telegraaf (telegraaf.nl) wordt veel over hem gediscussieerd. Check bijvoorbeeld het artikel <a rel="nofollow" href="http://www.telegraaf.nl/prive/3040853/___vampier-act_smakeloos___.html" target="_blank">Uri Geller walgt van mentalist Vincent</a>. Maar is dat ook echt zo? Vind Uri Geller hem&nbsp;&eacute;cht walgelijk?&nbsp;
 </p>
