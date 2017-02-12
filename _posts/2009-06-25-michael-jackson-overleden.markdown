@@ -8,8 +8,10 @@ categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2009/06/25/Michael-Jackson-overleden.aspx", "/post/2009/06/25/michael-jackson-overleden.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+{% include imported_disclaimer.html %}
+
 <p>
 Klopt dit? 
 </p>
@@ -23,5 +25,5 @@ Bron: <a rel="nofollow" href="http://www.nu.nl/algemeen/2030350/michael-jackson-
 Jemig, ik kan het haast niet geloven dat de <strong>King of Pop</strong> oveleden is.. (??) 
 </p>
 <p>
-<img src="/image.axd?picture=2009%2f6%2fmichaeljackson.JPG" alt="" width="288" height="290" />
+<img src="/assets/2009/6/michaeljackson.JPG" alt="" width="288" height="290" />
 </p>

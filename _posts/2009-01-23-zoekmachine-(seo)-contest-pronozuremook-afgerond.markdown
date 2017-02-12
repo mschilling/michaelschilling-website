@@ -8,8 +8,10 @@ categories: ["blog", "archives"]
 tags: []
 alias: ["/post/2009/01/23/Zoekmachine-(SEO)-contest-PronoZuremook-afgerond.aspx", "/post/2009/01/23/zoekmachine-(seo)-contest-pronozuremook-afgerond.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+{% include imported_disclaimer.html %}
+
 <p>
 Vorige week vrijdag hebben wij&nbsp;de Prono/Zuremook zoekmachine&nbsp;(SEO) contest afgerond. Na een maand zat het er alweer op, en ik ben tevreden met het eind resultaat. <br />
 <br />
@@ -65,7 +67,7 @@ Maar wel een beetje vervelend voor Harold gedurende de maand zeker 26 dagen bove
 <p>
 Op naar de volgende contest! 
 </p>
-<a href="/image.axd?picture=2009%2f1%2fseoresults.jpg"><img src="/image.axd?picture=2009%2f1%2fseoresults_tn.jpg" border="0" alt="" width="350" height="272" /> </a>
+<a href="/assets/2009/1/seoresults.jpg"><img src="/assets/2009/1/seoresults_tn.jpg" border="0" alt="" width="350" height="272" /> </a>
 <p>
 &nbsp;
 </p>

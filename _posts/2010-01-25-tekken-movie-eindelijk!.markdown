@@ -8,8 +8,10 @@ categories: ["blog", "archives"]
 tags: ["Films", "Movies"]
 alias: ["/post/2010/01/25/Tekken-movie-eindelijk!.aspx", "/post/2010/01/25/tekken-movie-eindelijk!.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+{% include imported_disclaimer.html %}
+
 <p>
 Gister hoorde ik dat er een film van <strong>Tekken</strong> komt.&nbsp;Zelf dit jaar komt de film&nbsp;<strong>Tekken</strong> uit!&nbsp;Zie <a rel="nofollow" href="http://www.imdb.com/title/tt0411951/" target="_blank">imdb</a>. 
 </p>
@@ -21,7 +23,7 @@ Zie hier de trailer: <br />
 http://www.youtube.com/watch?v=lWVTLLPwaQc 
 </p>
 <p>
-<img src="/image.axd?picture=2010%2f1%2ftekken.jpg" alt="" width="423" height="600" /> 
+<img src="/assets/2010/1/tekken.jpg" alt="" width="423" height="600" /> 
 </p>
 <p>
 Check it out! 

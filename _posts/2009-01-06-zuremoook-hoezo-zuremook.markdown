@@ -8,8 +8,10 @@ categories: ["blog", "archives"]
 tags: ["SEO"]
 alias: ["/post/2009/01/06/Zuremoook-Hoezo-zuremook.aspx", "/post/2009/01/06/zuremoook-hoezo-zuremook.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+{% include imported_disclaimer.html %}
+
 <p>
 <strong>Zuremook</strong> is een zoekmachine experiment! Het is de bedoeling om deze zoekterm zo hoog mogelijk te laten scoren in de zoekmachine Google.<br />
 <br />
@@ -21,7 +23,7 @@ Wil je mijn artikel lezen?&nbsp;Lees de beide blogs&nbsp;<a href="http://getting
 Deze challenge duurt precies een maand. 
 </p>
 <p>
-<img src="/image.axd?picture=2009%2f1%2fseo.jpg" alt="" width="450" height="347" /> 
+<img src="/assets/2009/1/seo.jpg" alt="" width="450" height="347" /> 
 </p>
 <p>
 Zelf een keer meedoen met een contest? Laat gerust een berichtje achter!&nbsp; 

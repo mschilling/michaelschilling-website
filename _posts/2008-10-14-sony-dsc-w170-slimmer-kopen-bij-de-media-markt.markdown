@@ -8,11 +8,13 @@ categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2008/10/14/Sony-DSC-W170-Slimmer-kopen-bij-de-Media-Markt.aspx", "/post/2008/10/14/sony-dsc-w170-slimmer-kopen-bij-de-media-markt.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+{% include imported_disclaimer.html %}
+
 Vandaag heb ik een nieuwe camera gekocht bij de Media Markt. Een rode <strong>Sony DSC W170</strong>. De laatste keer dat ik een camera had gekocht (toevallig ook al een Sony) was ruim 6 jaar geleden, en het was zeker tijd voor iets nieuws.<br />
 <br />
-<img src="/image.axd?picture=2008%2f10%2fDSC-W170.png" alt="" width="290" height="290" /><br />
+<img src="/assets/2008/10/DSC-W170.png" alt="" width="290" height="290" /><br />
 <br />
 Bij&nbsp;de Media Markt hebben ze zo&#39;n leuke&nbsp;policy dat ze graag concurreren tegen de <strong>scherpe (online) internet prijzen</strong>. Feitelijk komt het hierop neer: kan jij aantonen dat je het product ergens anders <strong>goedkoper</strong> kan <strong>vinden</strong>, dan krijg je het bij de Media Markt voor hetzelfde bedrag mee. Nice!<br />
 <br />

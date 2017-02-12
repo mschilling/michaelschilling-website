@@ -8,8 +8,10 @@ categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2009/08/20/Commissioning-AMDS-location-Khurais-(Saudi-Arabie).aspx", "/post/2009/08/20/commissioning-amds-location-khurais-(saudi-arabie).aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+{% include imported_disclaimer.html %}
+
 <p>
 Gister ben ik weer teruggekomen uit Saudi Arabie. Weer zo&#39;n moment van &quot;buitenland werkzaamheden&quot;, je kent het wel.. 
 </p>
@@ -25,13 +27,13 @@ Wat moesten wij deze keer doen? Eigenlijk weer hetzelfde als de vorige keer: bij
 Helaas was er deze keer niet veel ruimte voor shopping ofzo. Maar gelukkig hebben we toch nog een paar leuke kiekjes kunnen maken: 
 </p>
 <p>
-<img src="/image.axd?picture=2009%2f8%2fMike_1.jpg" alt="" width="450" height="330" /><br />
+<img src="/assets/2009/8/Mike_1.jpg" alt="" width="450" height="330" /><br />
 <br />
-<img src="/image.axd?picture=2009%2f8%2fmike2.jpg" alt="" width="450" height="338" /><br />
+<img src="/assets/2009/8/mike2.jpg" alt="" width="450" height="338" /><br />
 <br />
-<img src="/image.axd?picture=2009%2f8%2fmike_henry.jpg" alt="" width="450" height="338" /> <br />
+<img src="/assets/2009/8/mike_henry.jpg" alt="" width="450" height="338" /> <br />
 <br />
-<img src="/image.axd?picture=2009%2f8%2fmike3.jpg" alt="" width="450" height="338" /> <br />
+<img src="/assets/2009/8/mike3.jpg" alt="" width="450" height="338" /> <br />
 <br />
 Ik ben benieuwd waar de volgende trip naartoe zal gaan.. 
 </p>

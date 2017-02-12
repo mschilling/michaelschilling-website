@@ -8,10 +8,12 @@ categories: ["blog", "archives"]
 tags: ["Social Media"]
 alias: ["/post/2011/02/11/Facebook-paginas-krijgen-een-nieuwe-indeling.aspx", "/post/2011/02/11/facebook-paginas-krijgen-een-nieuwe-indeling.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+{% include imported_disclaimer.html %}
+
 <div style="float: right; margin-left: 4px">
-<img src="/image.axd?picture=2011%2f2%2ffacebook.png" alt="" width="64" height="64" /> 
+<img src="/assets/2011/2/facebook.png" alt="" width="64" height="64" /> 
 </div>
 Vanaf 10 maart zal iedere <strong>Facebook-pagina</strong> zijn overgezet naar&nbsp;een nieuwe indeling. Zojuist kreeg ik de volgende e-mail van Facebook: <br />
 <br />
@@ -33,5 +35,5 @@ Bekijk een voorbeeld van je pagina. Je krijgt de mogelijkheid om eerder te upgra
 Deze nieuwe indeling ziet er eigenlijk wel mooi uit. Ik zou zeggen doe er je voordeel mee! 
 </p>
 <p>
-<img src="/image.axd?picture=2011%2f2%2ffbp_game-of-memory.jpg" alt="" width="400" height="232" /> 
+<img src="/assets/2011/2/fbp_game-of-memory.jpg" alt="" width="400" height="232" /> 
 </p>
