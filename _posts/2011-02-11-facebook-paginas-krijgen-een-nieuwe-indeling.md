@@ -8,15 +8,12 @@ categories: ["blog", "archives"]
 tags: ["Social Media"]
 alias: ["/post/2011/02/11/Facebook-paginas-krijgen-een-nieuwe-indeling.aspx", "/post/2011/02/11/facebook-paginas-krijgen-een-nieuwe-indeling.aspx"]
 ---
-<!-- more -->
-
-{% include imported_disclaimer.html %}
-
 <div style="float: right; margin-left: 4px">
 <img src="/assets/2011/2/facebook.png" alt="" width="64" height="64" /> 
 </div>
-Vanaf 10 maart zal iedere <strong>Facebook-pagina</strong> zijn overgezet naar&nbsp;een nieuwe indeling. Zojuist kreeg ik de volgende e-mail van Facebook: <br />
-<br />
+Vanaf 10 maart zal iedere <strong>Facebook-pagina</strong> zijn overgezet naar&nbsp;een nieuwe indeling. Zojuist kreeg ik de volgende e-mail van Facebook:
+<!-- more -->
+
 <div style="font-style: italic; color: #333333; margin-left: 20px; font-size: 12px">
 Hoi Michael, <br />
 <br />

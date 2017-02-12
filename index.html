@@ -14,6 +14,14 @@ layout: default
         <h2>
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
+
+        {% if post.excerpt contains "a" %}
+        {{ post.excerpt }}<br>
+        {% else %}
+        {{ post.content | strip_html | truncatewords:75}}<br>
+        {% endif %}
+        <a href="{{ post.url }}">Lees verder...</a><br><br>          
+
       </li>
     {% endfor %}
   </ul>
