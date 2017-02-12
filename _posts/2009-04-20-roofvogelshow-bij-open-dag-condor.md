@@ -17,8 +17,8 @@ http://www.youtube.com/watch?v=iGErevHRozM
 
 Zie hier een paar foto&#39;s: 
 
-<img src="/image.axd?picture=2009%2f4%2fvogels1.jpg" alt="" width="400" height="300" /><br />
-<img src="/image.axd?picture=2009%2f4%2fvogels2.jpg" alt="" width="400" height="300" /><br />
-<img src="/image.axd?picture=2009%2f4%2fvogels3.jpg" alt="" width="400" height="300" />
+<img src="/assets/2009/4/vogels1.jpg" alt="" width="400" height="300" /><br />
+<img src="/assets/2009/4/vogels2.jpg" alt="" width="400" height="300" /><br />
+<img src="/assets/2009/4/vogels3.jpg" alt="" width="400" height="300" />
 
 Condor, bedankt! 
