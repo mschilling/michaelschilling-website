@@ -8,11 +8,8 @@ categories: ["blog", "archives"]
 tags: ["Metaphors"]
 alias: ["/post/2008/12/02/Werking-van-de-beurs.aspx", "/post/2008/12/02/werking-van-de-beurs.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
-<p>
 Crisis op de beurs? Hoe werkt de beurs eigenlijk? Onlangs kwam ik de volgende beschrijving tegen. 
-</p>
+<!-- more -->
 <blockquote>
 	<p>
 	<em>Op een dag verscheen er een man in een dorp. Hij verklaarde eikels te willen kopen en wilde daar &eacute;&eacute;n Euro per stuk voor betalen. Omdat er veel eikenbomen in het dorp stonden, begonnen de dorpsgenoten snel eikels te verzamelen. De man kocht een week later duizenden eikels voor een Euro per stuk.<br />

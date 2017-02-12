@@ -8,17 +8,13 @@ categories: ["blog", "archives"]
 tags: []
 alias: ["/post/2009/05/26/Draadstaal-(uitzending-gemist)-via-je-Popcorn-Hour-op-je-LCD.aspx", "/post/2009/05/26/draadstaal-(uitzending-gemist)-via-je-popcorn-hour-op-je-lcd.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
-<p>
 De <strong>Popcorn Hour (A-110)</strong>, wie kent &#39;em niet? 
-</p>
-<p>
-<img src="/image.axd?picture=2009%2f5%2fpopcorn_hour.jpg" alt="" width="445" height="429" /> 
-</p>
-<p>
+
+<img src="/assets/2009/5/popcorn_hour.jpg" alt="" width="445" height="429" /> 
+
 Maar wat is de <strong>Popcorn Hour</strong> eigenlijk? Nee, je kunt het niet eten;) 
-</p>
+<!-- more -->
+
 <blockquote>
 	<em>Een ingenieuze alleskunner dat niet misstaat in elke Home Theater-opstelling. Zo kan je de Popcorn Hour A-100 het beste omschrijven. Je kan met de Popcorn Hour alle digitale media zoals video, audio en foto&acute;s vanaf diverse bronnen heel gemakkelijk op je tv bekijken. Bijvoorbeeld via je PC, interne/externe HDD, USB of een NAS (Networked Attached Storage). Je kan je de hele dag door amuseren want deze media adapter kan zelfs direct vanaf het internet diverse kanalen afspelen, zoals YouTube, Google Video, Webradio en zelfs Internet TV.</em> 
 </blockquote>

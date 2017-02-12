@@ -8,14 +8,11 @@ categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2010/11/21/Waar-kan-je-in-Zwolle-oud-papier-wegbrengen.aspx", "/post/2010/11/21/waar-kan-je-in-zwolle-oud-papier-wegbrengen.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
-<p>
 Breng jij ook altijd netjes je <strong>oud papier</strong> weg naar de &#39;bekende&#39; <strong>inzamelpunten</strong>? Ikke wel, tenminste als ik zou weten waar deze papier inzamelpunten zich bevinden. &#39;Vroeger&#39; werd oud papier netjes voor de deur opgehaald (op mijn oude adres) maar nu niet meer.&nbsp;Daarom ben ik vandaag een kleine zoektocht gestart. 
-</p>
-<p>
+<!-- more -->
+
 Welke <strong>inzamelpunten oud-papier</strong> in Zwolle heb ik kunnen vinden? 
-</p>
+
 <ul>
 	<li>
 	<div>

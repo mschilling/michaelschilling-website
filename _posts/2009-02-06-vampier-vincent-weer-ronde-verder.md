@@ -3,13 +3,13 @@ layout: post
 title: "Vampier Vincent weer ronde verder"
 date: 2009-02-06 14:49:00 +0100
 comments: true
-published: true
+published: false
 categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2009/02/06/Vampier-Vincent-weer-ronde-verder.aspx", "/post/2009/02/06/vampier-vincent-weer-ronde-verder.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
 <p>
 <strong>Vincent de Vampier</strong> (Uri Geller show) is niet super goed ofzo, maar toch is hij weer een ronde verder. Hoe doet hij dat toch.. 
 </p>

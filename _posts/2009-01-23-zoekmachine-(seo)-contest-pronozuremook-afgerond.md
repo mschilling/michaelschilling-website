@@ -8,19 +8,14 @@ categories: ["blog", "archives"]
 tags: []
 alias: ["/post/2009/01/23/Zoekmachine-(SEO)-contest-PronoZuremook-afgerond.aspx", "/post/2009/01/23/zoekmachine-(seo)-contest-pronozuremook-afgerond.aspx"]
 ---
+Vorige week vrijdag hebben wij&nbsp;de Prono/Zuremook zoekmachine&nbsp;(SEO) contest afgerond. Na een maand zat het er alweer op, en ik ben tevreden met het eind resultaat. 
 <!-- more -->
 
-{% include imported_disclaimer.html %}
+Onderdeel A: <strong>een zwaar concurrerende term</strong>
 
-<p>
-Vorige week vrijdag hebben wij&nbsp;de Prono/Zuremook zoekmachine&nbsp;(SEO) contest afgerond. Na een maand zat het er alweer op, en ik ben tevreden met het eind resultaat. <br />
-<br />
-Onderdeel A: <strong>een zwaar concurrerende term</strong> <br />
 Gekozen zoekterm: <strong>Prono</strong> 
-</p>
-<p>
+
 Eindescore: 
-</p>
 <ol>
 	<li>Harold</li>
 	<li>Mike</li>

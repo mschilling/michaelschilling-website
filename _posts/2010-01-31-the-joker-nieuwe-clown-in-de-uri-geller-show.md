@@ -3,13 +3,15 @@ layout: post
 title: "The Joker: nieuwe clown in de Uri Geller show?"
 date: 2010-01-31 07:46:00 +0100
 comments: true
-published: true
+published: false
 categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2010/01/31/The-Joker-nieuwe-clown-in-de-Uri-Geller-show.aspx", "/post/2010/01/31/the-joker-nieuwe-clown-in-de-uri-geller-show.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
+<!-- more -->
+
+{% include imported_disclaimer.html %}
+
 <p>
 Ken je <strong>Vincent de Vampier</strong> nog? Dit was die &#39;vampier&#39; van de nieuwe <strong>Uri Geller</strong> show van vorig jaar.&nbsp;Dacht je dat je hiermee alles gehad hebt, dan heb je het mis: there&#39;s a new clown in town: <strong>The Joker</strong>!&nbsp; 
 </p>

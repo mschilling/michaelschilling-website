@@ -8,16 +8,11 @@ categories: ["blog", "archives"]
 tags: ["Films", "Movies"]
 alias: ["/post/2010/01/25/Tekken-movie-eindelijk!.aspx", "/post/2010/01/25/tekken-movie-eindelijk!.aspx"]
 ---
+Gister hoorde ik dat er een film van <strong>Tekken</strong> komt.&nbsp;Zelf dit jaar komt de film&nbsp;<strong>Tekken</strong> uit!&nbsp;Zie <a rel="nofollow" href="http://www.imdb.com/title/tt0411951/" target="_blank">imdb</a>. 
 <!-- more -->
 
-{% include imported_disclaimer.html %}
-
-<p>
-Gister hoorde ik dat er een film van <strong>Tekken</strong> komt.&nbsp;Zelf dit jaar komt de film&nbsp;<strong>Tekken</strong> uit!&nbsp;Zie <a rel="nofollow" href="http://www.imdb.com/title/tt0411951/" target="_blank">imdb</a>. 
-</p>
-<p>
 Steve Fox, Law, Jin Kazama, Heihachi, Eddy Gordo..&nbsp;allemaal aanwezig! (Ik&nbsp;heb alleen King nog niet gespot.. da&#39;s minder..)&nbsp; 
-</p>
+
 <p>
 Zie hier de trailer: <br />
 http://www.youtube.com/watch?v=lWVTLLPwaQc 

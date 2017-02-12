@@ -8,38 +8,24 @@ categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2009/02/02/Terug-van-Port-Talbot-(UK).aspx", "/post/2009/02/02/terug-van-port-talbot-(uk).aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
-<p>
 Afgelopen week ben ik een paar dagen naar Port Talbot geweest voor werk. Wat moest ik doen? Een software update uitvoeren bij CSPUK (Corus). 
-</p>
-<p>
+
 Hieronder een paar leuke fotootjes: 
-</p>
-<p>
+
 Foto 1: op bezoek bij de politie van Wales :-) 
-</p>
-<p>
-<img src="/image.axd?picture=2009%2f2%2ffoto1.jpg" alt="" width="450" height="338" /> 
-</p>
-<p>
+
+<img src="/assets/2009/2/foto1.jpg" alt="" width="450" height="338" /> 
+<!-- more -->
+
 Foto 2: poolen in de local bar 
-</p>
-<p>
-<img src="/image.axd?picture=2009%2f2%2ffoto2.jpg" alt="" width="450" height="338" /> 
-</p>
-<p>
+<img src="/assets/2009/2/foto2.jpg" alt="" width="450" height="338" /> 
+
 Foto 3: werkomgeving 
-</p>
-<p>
-<img src="/image.axd?picture=2009%2f2%2ffoto3.jpg" alt="" width="450" height="338" /> 
-</p>
-<p>
+<img src="/assets/2009/2/foto3.jpg" alt="" width="450" height="338" /> 
+
 Over 1,5 week ga ik met een collega naar India. Ik hoop maar dat ik kan wennen aan de warme temperaturen.. 
-</p>
-<p>
+
 Meer weten? 
-</p>
 <ul>
 	<li>
 	<div>

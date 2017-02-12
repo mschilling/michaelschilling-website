@@ -8,13 +8,10 @@ categories: ["blog", "archives"]
 tags: ["SEO"]
 alias: ["/post/2009/01/06/Zuremoook-Hoezo-zuremook.aspx", "/post/2009/01/06/zuremoook-hoezo-zuremook.aspx"]
 ---
-<!-- more -->
-
-{% include imported_disclaimer.html %}
-
 <p>
 <strong>Zuremook</strong> is een zoekmachine experiment! Het is de bedoeling om deze zoekterm zo hoog mogelijk te laten scoren in de zoekmachine Google.<br />
-<br />
+<!-- more -->
+
 Lees het&nbsp;content&nbsp;<a href="http://www.datmoetzo.nl/prono-zuremook-seo-contest.html" target="_blank">Prono zuremook SEO contest</a> voor meer uitleg over deze challenge.<br />
 <br />
 Wil je mijn artikel lezen?&nbsp;Lees de beide blogs&nbsp;<a href="http://gettingskills.blogspot.com/2008/12/zuremook-of-zure-mook.html" target="_blank">Zuremook of Zure Mook?</a> en <a href="http://gettingskills.blogspot.com/2009/01/zuremook-stand-van-zaken.html" target="_blank">Zuremook: stand van zaken</a>. 

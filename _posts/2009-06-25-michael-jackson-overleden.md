@@ -3,7 +3,7 @@ layout: post
 title: "Michael Jackson overleden?"
 date: 2009-06-25 18:40:00 +0200
 comments: true
-published: true
+published: false
 categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2009/06/25/Michael-Jackson-overleden.aspx", "/post/2009/06/25/michael-jackson-overleden.aspx"]

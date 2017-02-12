@@ -8,14 +8,13 @@ categories: ["blog", "archives"]
 tags: ["Films"]
 alias: ["/post/2009/01/19/Wolverine-de-nieuwe-X-men-film-komt-eraan.aspx", "/post/2009/01/19/wolverine-de-nieuwe-x-men-film-komt-eraan.aspx"]
 ---
-<!-- more -->
-{% include imported_disclaimer.html %}
-<h3>X-Men Origins: Wolverine </h3>
-<p>
+### X-Men Origins: Wolverine
+
 Op 30 april komt de nieuwe X-men film uit: <strong>Wolverine</strong>. Als trouwe X-men fan ga ik zeker naar de bios :-) 
-</p>
+<!-- more -->
+
 http://www.youtube.com/watch?v=OX6H7t1wXZI 
-<p>
+
 Plot: 
 </p>
 <em>Wolverine lives a mutant life, seeks revenge against Victor Creed (who will later become Sabertooth) for the death of his girlfriend, and ultimately ends up going through the mutant Weapon X program.</em> 

@@ -8,16 +8,11 @@ categories: ["blog", "archives"]
 tags: ["Algemeen"]
 alias: ["/post/2009/08/20/Commissioning-AMDS-location-Khurais-(Saudi-Arabie).aspx", "/post/2009/08/20/commissioning-amds-location-khurais-(saudi-arabie).aspx"]
 ---
+Gister ben ik weer teruggekomen uit Saudi Arabie. Weer zo&#39;n moment van &quot;buitenland werkzaamheden&quot;, je kent het wel.. 
+
+Hoewel we (mijn collega Henry en ik) deze keer wel heel ver <em>in-the-middle-of-nowhere</em> beland waren! Khurais is een plaatsje midden in de woestijn, waarbij de dichtsgelegen stad &gt;200km bij ons vandaan was. 
 <!-- more -->
 
-{% include imported_disclaimer.html %}
-
-<p>
-Gister ben ik weer teruggekomen uit Saudi Arabie. Weer zo&#39;n moment van &quot;buitenland werkzaamheden&quot;, je kent het wel.. 
-</p>
-<p>
-Hoewel we (mijn collega Henry en ik) deze keer wel heel ver <em>in-the-middle-of-nowhere</em> beland waren! Khurais is een plaatsje midden in de woestijn, waarbij de dichtsgelegen stad &gt;200km bij ons vandaan was. 
-</p>
 <iframe src="http://maps.google.nl/maps?hl=nl&amp;source=hp&amp;q=Khurais,+Saudi+Arabi%C3%AB&amp;ie=UTF8&amp;cd=1&amp;geocode=FfSHfgEdgWXfAg&amp;split=0&amp;sll=52.469397,5.509644&amp;sspn=1.74015,3.735352&amp;ll=25.676187,48.466187&amp;spn=2.617565,4.108887&amp;z=8&amp;output=embed" width="425" height="350" frameborder="0"></iframe><br />
 <a style="text-align: left; color: #0000ff" href="http://maps.google.nl/maps?hl=nl&amp;source=embed&amp;q=Khurais,+Saudi+Arabi%C3%AB&amp;ie=UTF8&amp;cd=1&amp;geocode=FfSHfgEdgWXfAg&amp;split=0&amp;sll=52.469397,5.509644&amp;sspn=1.74015,3.735352&amp;ll=25.676187,48.466187&amp;spn=2.617565,4.108887&amp;z=8">Grotere kaart weergeven</a> 
 <p>
